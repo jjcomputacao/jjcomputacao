@@ -1,39 +1,3 @@
-# Jhonatan José da Silva  <img src="img\MetalSlug.gif" width="30px">
-
-## Hello world!
-    Formado em engenharia de computação, trabalho com qualidade de software e automação utilizando técnicas e conhecimentos adquiridos até o momento, otimizando processos visando sempre qualidade e tempo de execução, busco sempre aperfeiçoar e gerenciar a execução dos testes garantindo uma entrega com qualidade.
-
-## Conhecimentos em automação:👨🏾‍💻
-### Plataforma
-- WEB 
-- MOBILE
-- BrowserStack
-### Framework
-- Cypress
-- Robot
-- Cucumber
-### Software
-- Katalon
-- Postman
-- Selenium
-- Android Studio
-- Cucumber
-
-### Ferramentas de gerenciamento
-- Jira
-- Asana
-- Target process
-### Linguagem
-- <img src="img\javaLogo.png" height="32px">
-- <img src="img\javascriptLogo.png" height="32px">
-- <img src="img\rubyLogo.png" height="32px">
-- <img src="img\pythonLogo.png" height="32px">
-- <img src="img\markdownLogo.png" height="32px">
-
-# Contatos<img src="img\Handshake.gif" height="32px">
-
-| [<img src="img/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/jjcomputacao/) | [<img src="img/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bogachola/) | [<img src="img/Github logo.png" alt="Github logo" width="34">](https://github.com/jjcomputacao) | [<img src="img/tinkercadLogo.png" alt="HackerRank Logo" width="30">](https://www.tinkercad.com/users/79TfVc87xBa) | [<img src="img/Gmail.svg" alt="Gmail logo" height="32">](mailto:jjcomputacao@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
 # Jhonatan José da Silva <img src="https://user-images.githubusercontent.com/55117744/201367746-4437a003-44c2-4e26-81e8-41e43516c045.gif" width="30px">
 
 ## Hello world!
